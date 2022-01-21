@@ -41,7 +41,7 @@
     "intel": "^1.2.0",
     "jsonwebtoken": "^8.5.1",
     "jwt-then": "^1.0.1",
-    "log4js": "^4.1.1",
+    "log4js": "^6.4.0",
     "mongoose": "^5.4.20",
     "passport": "^0.4.0",
     "passport-http-bearer": "^1.0.1",
